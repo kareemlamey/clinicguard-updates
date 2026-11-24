@@ -1,3 +1,3 @@
-version=1.6.0
+version=1.7.0
 file=ClinicGuard.exe
-sha256=6349d351d4cc9d6f64fdf0df08d9b384ab6ae889bdec33a2f0f532e4c1f3f2ef
+sha256=4dfcbc82f3eb9bd5d029ea0bcf83d7efd354ff58a51655798629d89a379eac13
